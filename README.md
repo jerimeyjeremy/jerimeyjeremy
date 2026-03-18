@@ -54,13 +54,13 @@ Google Cloud • AWS • Snowflake
 ## Education  
 
 **University of Texas at San Antonio** 
-,M.S. Data Analytics
+ M.S. Data Analytics
 
 **Texas A&M University-San Antonio** 
-,B.A.A.S. Information Technology
+ B.A.A.S. Information Technology
 
 **San Antonio College**
-,A.S. Computer Programming
+ A.S. Computer Programming
 
 
 

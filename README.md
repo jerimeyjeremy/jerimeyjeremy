@@ -1,14 +1,14 @@
 ### 👋 Hi, I’m Jerimey Simons 
 
-I’m a Data Analyst and aspiring Data Scientist focused on machine learning, predictive modeling, and data-driven decision making.
+<p>I’m a Data Analyst and aspiring Data Scientist focused on machine learning, predictive modeling, and data-driven decision making.</p>
 
 I specialize in turning raw data into actionable insights by combining:
 
-*statistical modeling
+* statistical modeling
 
-*machine learning
+* machine learning
 
-*and business context
+* and business context
 
 My work centers on solving real-world problems — from predictive analytics to performance optimization — with a strong emphasis on impact over theory.
 
@@ -17,22 +17,26 @@ My work centers on solving real-world problems — from predictive analytics to 
 
 This GitHub is my data science and analytics portfolio, featuring projects that demonstrate:
 
-*End-to-end data workflows (data → model → insight)
+* End-to-end data workflows (data → model → insight)
 
-*Machine learning applications with business interpretation
+* Machine learning applications with business interpretation
 
-*Data visualization and storytelling
+* Data visualization and storytelling
 
-*Real-world problem solving using modern data tools 
+* Real-world problem solving using modern data tools 
 
 
-👨🏾‍🏭 **Currently working on:** Machine leanding and NN Classification Models to accuratly predict winner of NBA games.
+👨🏾‍🏭 **Currently working on:** 
+* NBA Game Outcome Prediction using machine learning and classification models
+* Building end-to-end data projects using Python, SQL, and cloud platforms (GCP, Snowflake)
+* Developing dashboards and analytics workflows that support business decisions
 
 ## Let's Connect ✅
  Follow me on [GitHub](https://github.com/jerimeyjeremy), and [LinkedIn](https://www.linkedin.com/in/jerimey-simons/) for data science content.
 
 [![Generic badge](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jerimey-simons/) 
 
+---
 ### Technical Skills
 
 ## Languages & Tools
@@ -41,23 +45,22 @@ Python • SQL • R • Excel
 ## Data & ML
 Machine Learning • Statistical Modeling • Feature Engineering • Model Evaluation
 
-## Cloud Platforms 
-Google Cloud • Amazon Web Services • Snowflake
+## Visualization
+Power BI • Tableau
+
+## Cloud & Data Platforms 
+Google Cloud • AWS • Snowflake
 
 ## Education  
 
 **University of Texas at San Antonio** 
-Master of Science, Data Analytics
+M.S. Data Analytics
 
 **Texas A&M University-San Antonio** 
-Bachelor of Applied Art & Science, Information Technology 
-
-**Certificates:** 
-* Data Analytics
-* Cyber Security
+B.A.A.S. Information Technology
 
 **San Antonio College**
-Associate of Science, Computer Programming
+A.S. Computer Programming
 
 
 

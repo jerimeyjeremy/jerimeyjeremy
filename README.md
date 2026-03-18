@@ -1,14 +1,30 @@
-### "Hello World", I'm Jerimey! 😁
+### 👋 Hi, I’m Jerimey Simons 
 
+I’m a Data Analyst and aspiring Data Scientist focused on machine learning, predictive modeling, and data-driven decision making.
 
-# I am a proactive problem-solver and enthusiastic learner, driven by the challenge of applying data-driven technologies to solve real-world problems. With a solid foundation in data analytics, data science, and Artificial Intelligence, particularly in machine learning and neural networks/deep learning, I am keen to utilize my expertise to tackle significant challenges and create impactful solutions. #
+I specialize in turning raw data into actionable insights by combining:
 
-*Constant elevation causes expansion - Rakim*
+*statistical modeling
+
+*machine learning
+
+*and business context
+
+My work centers on solving real-world problems — from predictive analytics to performance optimization — with a strong emphasis on impact over theory.
 
 
 ---
 
-This Github is home to my data science portfolio, showcasing projects born out from inspiration, curiosity, and motivation. 
+This GitHub is my data science and analytics portfolio, featuring projects that demonstrate:
+
+*End-to-end data workflows (data → model → insight)
+
+*Machine learning applications with business interpretation
+
+*Data visualization and storytelling
+
+*Real-world problem solving using modern data tools 
+
 
 👨🏾‍🏭 **Currently working on:** Machine leanding and NN Classification Models to accuratly predict winner of NBA games.
 
@@ -17,10 +33,21 @@ This Github is home to my data science portfolio, showcasing projects born out f
 
 [![Generic badge](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jerimey-simons/) 
 
-## Technical Skills
-Python • Java • Excel • SQL • Power BI • Tableau • SAS • Linux
+### Technical Skills
+
+## Languages & Tools
+Python • SQL • R • Excel
+
+## Data & ML
+Machine Learning • Statistical Modeling • Feature Engineering • Model Evaluation
+
+## Cloud Platforms 
+Google Cloud • Amazon Web Services • Snowflake
 
 ## Education  
+
+**University of Texas at San Antonio** 
+Master of Science, Data Analytics
 
 **Texas A&M University-San Antonio** 
 Bachelor of Applied Art & Science, Information Technology 

@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Jerimey Simons 
 
-<p>I’m a Data Analyst and aspiring Data Scientist focused on machine learning, predictive modeling, and data-driven decision making.</p>
+<p>I’m a Data Analyst/Scientist focused on machine learning, predictive modeling, and data-driven decision making.</p>
 
 I specialize in turning raw data into actionable insights by combining:
 
